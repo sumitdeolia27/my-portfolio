@@ -91,6 +91,7 @@ export const portfolioData = {
       features: ["Professional Design", "Project Showcase", "Skills & Experience", "Contact Details"],
       image: "/images/projects/portfolio.png",
       gradient: "from-pink-500 to-rose-500",
+      demoUrl: "https://my-portfolio-nloo-git-main-sumits-projects-01e27ee1.vercel.app?_vercel_share=FtjsMZxgu86oFq6V7Nf3iXc8dVVUiglo",
       githubUrl: "https://github.com/sumitdeolia27/my-portfolio",
     },
     {
